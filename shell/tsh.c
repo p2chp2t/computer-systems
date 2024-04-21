@@ -1,7 +1,7 @@
 /* 
  * tsh - A tiny shell program with job control
  * 
- * Yoojin Kim 20220041 POVIS ID: kimyujin1224 
+ * Yoojin Kim 20220041
  */
 #include <stdio.h>
 #include <stdlib.h>
